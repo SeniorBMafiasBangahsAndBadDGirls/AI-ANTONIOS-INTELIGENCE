@@ -1,0 +1,10 @@
+export default function DonatePage() {
+  return (
+    <div style={{ padding: '2rem' }}>
+      <h1>Become a Legacy Donor</h1>
+      <p>Donate <strong>$100,000,000</strong> via Venmo to unlock exclusive access.</p>
+      <h2>Venmo: @AntonioRhymesLegacy</h2>
+      <p>Include your email in the payment note. You’ll receive your access key within 24 hours.</p>
+    </div>
+  );
+}
